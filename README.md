@@ -20,10 +20,6 @@ What do you need?
     - NumberGenerator
 
 
-# Disclaimer
-This is for educational purposes only. Do not use it for illegal activities. You are solely responsible for your actions!
-
-
 # NumberGenerator Usage
 ```
 NumberGenerator 1.0.3.0
@@ -44,24 +40,26 @@ Copyright: GNU GPLv3
 # Sample Execution [Google Contacts CSV]
 Execution for German phone numbers
 ```
-NumberGenerator.exe -a5000 -p+49177 -lGermany -d7
+NumberGenerator.exe -a5000 -p+49177 -lGermany -d7 -g
 ```
 
 Execution for Colombian phone numbers
 ```
-NumberGenerator.exe -a5000 -p+57350 -lColombia -d7
+NumberGenerator.exe -a5000 -p+57350 -lColombia -d7 -g
 ```
 
 # Sample Execution [Plain VCF]
 Execution for German phone numbers
 ```
-NumberGenerator.exe -a5000 -p+49177 -lGermany -d7 -g
+NumberGenerator.exe -a5000 -p+49177 -lGermany -d7 
 ```
 
 # Upload [Google Contacts Only]
 To upload the CSV visit [Google Contacts][GoCo] and go to import, select the just created contacts.csv file and import it. 
 Do not upload a file with more than 12.000 entries, as this is the Google limit. Your phone will start synchronize automatically and WhatsApp will add each new contact into it, if available.
 
+# Disclaimer
+This repository and all software it contains is for educational purposes only. Do not use it for illegal activities. You are solely responsible for your actions! I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK.
 
 # License
 [GPL v3][GPL]
