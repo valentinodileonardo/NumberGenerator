@@ -1,0 +1,6 @@
+﻿02.08.2021 1.0.3.0 m4573rch13f: ADD: Support to generate vcf file (default now).
+10.12.2020 1.0.2.0 m4573rch13f: CHG: Same timestamp for cached files.
+04.12.2020 1.0.1.0 m4573rch13f: CHG: Name of contacts now contains the label parameter and incrementation e.g. DEU1
+								ADD: Press any key to close...
+				   
+02.12.2020 1.0.0.0 m4573rch13f: First version

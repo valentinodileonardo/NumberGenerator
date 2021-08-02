@@ -1,0 +1,10 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio temp something
+.vs/
+
+NumberGenerator/bin/
+NumberGenerator/obj/
