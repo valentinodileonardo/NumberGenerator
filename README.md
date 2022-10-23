@@ -14,7 +14,7 @@ What do you need?
     - A smartphone which is logged in into your Google account 
     - [Google Contacts][GoCo] to upload the generated CSV file
 - VCF Mode
-    -A smartphone which is able to import vcf file
+    - A smartphone which is able to import vcf file
     - WhatsApp
     - .NET Framework 4.6.1 or higher
     - NumberGenerator
